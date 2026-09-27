@@ -1,4 +1,4 @@
-# V-JEPA 2 쉽게 정리하기
+# V-JEPA 2
 ## Self-Supervised Video Models Enable Understanding, Prediction and Planning
 
 논문: Mahmoud Assran, Adrien Bardes, David Fan 외, FAIR at Meta (2025)  
